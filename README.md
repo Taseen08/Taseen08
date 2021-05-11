@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Taseen08
 - 👀 I’m interested in Front-end web development
-- 🌱 I’m currently learning Javascript and React
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🌱 I’m currently Seeking Fall 2021 internships as a web developer.
+- Feel free to reach me out for any new ideas or projects!
+- 📫 My email: ataseen@uwaterloo.ca
 
 <!---
 Taseen08/Taseen08 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
