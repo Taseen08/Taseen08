@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Taseen08
 - 👀 I’m interested in Front-end web development
-- 🌱 I’m currently Seeking Fall 2021 internships as a web developer.
+- 🌱 I’m currently Seeking Fall 2022 internships!
 - Feel free to reach me out for any new ideas or projects!
 - 📫 My email: ataseen@uwaterloo.ca
 
