@@ -1,6 +1,7 @@
-- 👋 Hi, I’m @Taseen08
-- 👀 I’m interested in Front-end web development
-- 🌱 I’m currently Seeking Fall 2022 internships!
+- Hello World! I am A S M Taseen
+- I'm a sophomore at the University of Waterloo
+- I am interested in frontend with React, backend, infrastructure, and product roles
+- I’m currently Seeking Fall 2023 internships!
 - Feel free to reach me out for any new ideas or projects!
 - 📫 My email: ataseen@uwaterloo.ca
 
