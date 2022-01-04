@@ -1,4 +1,4 @@
-- Hello World! I am A S M Taseen
+- Hello World! I am A S M Taseen 👾
 - I'm a sophomore at the University of Waterloo
 - I am interested in frontend with React, backend, infrastructure, and product roles
 - I’m currently Seeking Fall 2023 internships!
