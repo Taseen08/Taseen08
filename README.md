@@ -1,7 +1,7 @@
 - Hello World! I am A S M Taseen 👾
-- I'm a sophomore at the University of Waterloo
+- I'm a junior at the University of Waterloo
 - I am interested in frontend with React, backend, infrastructure, and product roles
-- I’m currently Seeking Fall 2023 internships!
+- I’m currently Seeking Summer 2023 internships!
 - Feel free to reach me out for any new ideas or projects!
 - 📫 My email: ataseen@uwaterloo.ca
 
