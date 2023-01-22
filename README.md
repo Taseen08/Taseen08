@@ -8,7 +8,7 @@
 - Interested and experienced in full-stack software development
 - Passionate about impactful software that sets smiles
 - Building [Hexa](https://myhexaa.com/) - an EdTech platform that is going to revolutionize education is South Asia
-- Besides work and studies, I love to try different cuisines, travelling and working out
+- Besides work and studies, I love to try out different cuisines, travelling and working out
 - Feel free to reach me out -  Let's chat about internships, university survival, food, and literally anything!
 - 📫 My email: ataseen@uwaterloo.ca
 - Let's connect on [LinkedIn](https://www.linkedin.com/in/a-s-m-taseen/)
