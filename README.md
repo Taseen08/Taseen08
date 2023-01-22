@@ -1,8 +1,8 @@
 <h1 align="center">Hey 👋, my name is Taseen!</h1>
 <h3 align="center">A fellow software engineer and entrepreneuer</h3>
 
-- I'm software engineer intern at [Super]([https://myhexaa.com/](https://www.super.com/))
-- ⛏⚙️ I’m currently building [Hexa](https://myhexaa.com/)
+
+<p align="left"> About me:</p>
 ```
 {
   "name" : "A S M Taseen",
