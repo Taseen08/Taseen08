@@ -2,7 +2,6 @@
 <h3 align="center">A fellow software engineer and entrepreneuer</h3>
 
 
-<p align="left"> About me:</p>
 ```
 {
   "name" : "A S M Taseen",
