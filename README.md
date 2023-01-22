@@ -6,11 +6,13 @@
 ```
 {
   "name" : "A S M Taseen",
-  "school" : "university of waterloo",
+  "work" : SWE intern at [Super](https://www.super.com/),
+  "school" : "University of Waterloo",
   "program" : "computer science co-op",
-  "year" : "second year",
+  "year" : "Third year",
   "job-searching" : true,
-  "goal" : "to create software that will change the world"
+  "building" : [Hexa](https://myhexaa.com/),
+  "goal" : "Build impactful software that sets a million smiles"
 }
 ```
 
