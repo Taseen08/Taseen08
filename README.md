@@ -1,4 +1,4 @@
-<h1 align="center">Hey 👋, my name is Taseen!</h1>
+<h2 align="center">Hey 👋, my name is Taseen!</h2>
 <h3 align="center">A fellow software engineer and entrepreneuer</h3>
 
 
@@ -14,7 +14,9 @@
   "goal" : "Build impactful software that sets a million smiles"
 }
 ```
-- Feel free to reach me out for any new ideas or projects!
+
+
+- Feel free to reach out to me:) Let's have a chat about internships, startups, tech, and/or food!
 - 📫 My email: ataseen@uwaterloo.ca
 <h3 align="left">Connect with me:</h3>
 <p align="left">
