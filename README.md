@@ -3,7 +3,7 @@
 
 - I'm software engineer intern at [Super]([https://myhexaa.com/](https://www.super.com/))
 - ⛏⚙️ I’m currently building [Hexa](https://myhexaa.com/)
-
+```
 {
   "name" : "A S M Taseen",
   "school" : "university of waterloo",
@@ -12,6 +12,7 @@
   "job-searching" : true,
   "goal" : "to create software that will change the world"
 }
+```
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
