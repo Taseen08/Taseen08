@@ -2,8 +2,9 @@
 <h3 align="left">A fellow software engineer and aspiring entrepreneuer</h3>
 
 
-- A junior at the University of Waterloo, studying Computer Science
+- A senior at the University of Waterloo, studying Computer Science
 - Previously interned at Super (aka Snapcommerce), Relay Financial, and TutorOcean.
+- Incoming SDE intern @ Amazon.
 - Seeking 2024 SWE internships
 - Interested and experienced in full-stack software development
 - Passionate about building impactful software products
