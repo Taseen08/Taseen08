@@ -3,12 +3,12 @@
 
 
 - A senior at the University of Waterloo, studying Computer Science
-- SDE intern @ Amazon (AWS Payments).
-- Previously interned at Super.com (aka Snapcommerce), Relay Financial, and TutorOcean.
-- Seeking 2024 SWE internships
-- Interested and experienced in full-stack software development
+- SWE intern @ Wealthsimple (Cash Accounts team).
+- Previously interned at Amazon (AWS), Super.com, Relay Financial, and TutorOcean.
+- Seeking 2025 New grad SWE opportunities
+- Interested and experienced in backend/infrastructure engineering
 - Passionate about building impactful software products
 - Building [Hexa](https://myhexaa.com/) - an EdTech platform that is going to revolutionize education is South Asia
 - Besides work and studies, I love to try out different cuisines, travelling and working out
-- Feel free to reach me out -  Let's chat about internships, career, startups, food, and literally anything!
+- Feel free to reach me out -  Let's chat about job opportunities, career, startups, food, and literally anything!
 - Let's connect on [LinkedIn](https://www.linkedin.com/in/a-s-m-taseen/)
