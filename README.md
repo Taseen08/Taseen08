@@ -3,8 +3,7 @@
 
 
 - A senior at the University of Waterloo, studying Computer Science
-- SWE intern @ Wealthsimple (Cash Accounts team).
-- Previously interned at Amazon (AWS), Super.com, Relay Financial, and TutorOcean.
+- Previously interned at Amazon (AWS), Wealthsimple, Super.com, Relay Financial, and TutorOcean.
 - Seeking 2025 New grad SWE opportunities
 - Interested and experienced in backend/infrastructure engineering
 - Passionate about building impactful software products
