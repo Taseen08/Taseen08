@@ -3,12 +3,12 @@
 
 
 - Alumni @ University of Waterloo , Hons. Computer Science
+- Currently @ BitGo on their Crypto-as-a-service team
 - Previously interned at Amazon (AWS), Wealthsimple, Super.com, Relay Financial, and TutorOcean.
-- Seeking 2025 New grad SWE opportunities
 - Interested and experienced in backend/infrastructure engineering
 - Passionate about building impactful software products
 - Currently building an interview platform for mechanical engineers (leetcode for MechEng)
-- Previously built Hexa - an EdTech platform that is going to revolutionize education is South Asia
-- Besides work and studies, I love to try out different cuisines, travelling and working out
-- Feel free to reach me out -  Let's chat about job opportunities, career, startups, food, and literally anything!
+- Previously built Hexa - an EdTech platform that aimed to revolutionize education is South Asia
+- Besides work and studies, I love to try out different cuisines, travelling, and working out
+- Feel free to reach me out -  Let's chat about opportunities, career, startups, and literally anything!
 - Let's connect on [LinkedIn](https://www.linkedin.com/in/a-s-m-taseen/)
