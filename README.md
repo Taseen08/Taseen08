@@ -3,7 +3,6 @@
 
 
 - Alumni @ University of Waterloo , Hons. Computer Science
-- Currently @ BitGo on their Crypto-as-a-service team
 - Previously interned at Amazon (AWS), Wealthsimple, Super.com, Relay Financial, and TutorOcean.
 - Interested and experienced in backend/infrastructure engineering
 - Passionate about building impactful software products
